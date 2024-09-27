@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="click_me">Click Me</string>
+    <string name="shapoval_oleg">Shapoval Oleg</string>
+    <string name="group">Group</string>
+    <string name="update">update</string>
+</resources>
